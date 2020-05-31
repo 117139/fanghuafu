@@ -1,0 +1,188 @@
+
+uni-page.data-v-77e118be {
+	border: #F7F7F7;
+}
+.cu-bar .action.data-v-77e118be {
+	color: #fff;
+}
+.hello.data-v-77e118be {
+	padding-top: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* flex: 1; */
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 541rpx;
+	box-sizing: border-box;
+}
+.ul.data-v-77e118be {
+	font-size: 30rpx;
+	color: #8f8f94;
+	margin-top: 50rpx;
+}
+.ul>view.data-v-77e118be {
+	line-height: 50rpx;
+}
+.content.data-v-77e118be {
+	background: #F7F7F7;
+}
+.index_bg.data-v-77e118be {
+	width: 100%;
+	height: 541rpx;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}
+.index_box.data-v-77e118be {
+	position: relative;
+	top: 0;
+	z-index: 3;
+	width: 100%;
+	/* min-height: 1323upx; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.tx_box.data-v-77e118be {
+	width: 165rpx;
+	height: 165rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: relative;
+}
+.tx_edit.data-v-77e118be {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index: 9;
+	width: 54rpx;
+	height: 54rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.tx_edit text.data-v-77e118be {
+	color: #515FEB;
+}
+.tx_box image.data-v-77e118be {
+	width: 155rpx;
+	height: 155rpx;
+	border-radius: 50%;
+	position: relative;
+	z-index: 5;
+}
+.uname.data-v-77e118be {
+	font-size: 36rpx;
+	font-family: PingFang;
+	font-weight: bold;
+	color: rgba(255, 255, 255, 1);
+	margin-top: 50rpx;
+}
+.uname1.data-v-77e118be {
+	font-size: 28rpx;
+	font-family: PingFang SC;
+	font-weight: 500;
+	color: rgba(254, 254, 254, 1)
+}
+.cz_li.data-v-77e118be {
+	width: 100%;
+	height: 100rpx;
+
+	padding: 0 28rpx;
+	box-sizing: border-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 28rpx;
+	color: #333;
+	background: #FFFFFF;
+	border-bottom: 1px solid #f7f7f7;
+}
+.cz_v.data-v-77e118be {
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-top: 200rpx;
+}
+.cz_btn.data-v-77e118be {
+	width: 570rpx;
+	height: 78rpx;
+	background: -webkit-linear-gradient(145deg, rgba(81, 95, 235, 1), rgba(63, 129, 253, 1));
+	background: linear-gradient(-55deg, rgba(81, 95, 235, 1), rgba(63, 129, 253, 1));
+	border-radius: 39rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.cz_tit.data-v-77e118be {
+	font-size: 30rpx;
+	color: #333;
+}
+.cz_li input.data-v-77e118be {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: right;
+	font-size: 30rpx;
+	color: #333;
+}
+.dw_val.data-v-77e118be {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: right;
+}
+.cz_li text.data-v-77e118be {
+	margin-left: 10rpx;
+	color: #999;
+}
+

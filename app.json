@@ -2,6 +2,8 @@
   "pages": [
     "pages/main/main",
     "pages/main_edit/main_edit",
+    "pages/main_edit1/main_edit1",
+    "pages/main_jb/main_jb",
     "pages/login/login",
     "pages/reg/reg",
     "pages/pwd/pwd",
